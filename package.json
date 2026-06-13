@@ -2,7 +2,7 @@
   "name": "my-auditor-website",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://nithyashree2r.github.io/Subramani-Associates",
+  "homepage": "https://nithyashree2r.github.io/Subramani-Associates",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
